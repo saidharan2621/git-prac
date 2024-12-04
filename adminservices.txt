@@ -1,2 +1,3 @@
 iam admin
 i responsible for creating user and deleting user;
+admin can hav database access;

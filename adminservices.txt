@@ -1,7 +1,11 @@
 iam admin
 i responsible for creating user and deleting user;
+<<<<<<< HEAD
 
 
 
 
 admin admin
+=======
+admin can hav database access;
+>>>>>>> feature2
